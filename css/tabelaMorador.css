@@ -1,0 +1,30 @@
+table.table td button {
+    color: #03A9F4;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+table.table td a.edit {
+    color: #FFC107;
+}
+table.table td a.delete {
+    color: #E34724;
+}
+
+.modal-header{
+    background-color: rgb(255, 187, 0);   
+}
+
+.modal-footer button{
+    background-color: rgb(255, 187, 0); 
+}
+
+.modal-footer{
+    background-color: #3f3f3f;
+    color: #32383d;
+    background-color: #ffb922;
+}
+

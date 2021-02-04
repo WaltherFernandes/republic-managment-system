@@ -1,0 +1,11 @@
+{
+    "name": "devxyz/republica",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "mpdf/mpdf": "^8.0"
+    }
+}

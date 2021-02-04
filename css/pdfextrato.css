@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+body,
+html,
+button,
+input{
+    font-family: 'Roboto Mono', monospace
+}
+
+
+.header{
+    background-color: rgb(241, 224, 63);
+}
+
+.header h1{
+    text-align: center;
+}
+
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+
+.extrato{
+    margin-left: 1.2rem;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+table{
+    margin: auto;
+}
+
+.total{
+    text-align: center;
+}
